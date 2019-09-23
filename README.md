@@ -4,3 +4,5 @@ We propose a System for Processing In-situ Bio-signal Data for Emotion Recogniti
 This folder contains all the PCB designs for the main board and power potential board.
 # pipeline
 The pipeline folder contains the code for data preprocessing, facial landmark detection, facial expression detection, and emotion classification.
+#GUI
+This folder includes the materials for the preliminary experiment MATLAB GUI.
